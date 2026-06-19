@@ -4,6 +4,6 @@ Repository for code (scripts, snippets, full examples) used to analyze data coll
 
 First created June 2026 during the IMPISH-1 integration.
 
-For now, all examples, scripts, and snippets are accepted. Members of the IMPISH team can push to this repository. If you are not on the IMPISH team, use a pull request.
+For now, all examples, scripts, and snippets are accepted. Members of the IMPISH team can push to this repository. If you are not on the IMPISH team, use a pull request and your code will be reviewed.
 
 Eventually, we may clean this up into neat, well-maintained code. Or not!
