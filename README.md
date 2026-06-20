@@ -7,3 +7,8 @@ First created June 2026 during the IMPISH-1 integration.
 For now, all examples, scripts, and snippets are accepted. Members of the IMPISH team can push to this repository. If you are not on the IMPISH team, use a pull request and your code will be reviewed.
 
 Eventually, we may clean this up into neat, well-maintained code. Or not!
+
+## Resources on the `impisc` wiki
+- [Configuring your Python environment](https://github.com/umn-impish/impisc/wiki/Configuring-a-Python-analysis-environment)
+- [How to take debug data](https://github.com/umn-impish/impisc/wiki/Taking-debug-data)
+- [How to take science data](https://github.com/umn-impish/impisc/wiki/Science-data-acquisition)
